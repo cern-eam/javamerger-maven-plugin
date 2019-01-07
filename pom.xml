@@ -21,7 +21,7 @@
 
   <groupId>ch.cern.eam</groupId>
   <artifactId>javamerger-maven-plugin</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>maven-plugin</packaging>
 
   <name>Java Merger Maven Plugin</name>
@@ -131,7 +131,7 @@
 
   <scm>
     <connection>scm:git:ssh://git@github.com/cern-eam/javamerger-maven-plugin.git</connection>
-    <tag>HEAD</tag>
+    <tag>javamerger-maven-plugin-1.0.0</tag>
     <url>https://github.com/cern-eam/javamerger-maven-plugin</url>
   </scm>
 
