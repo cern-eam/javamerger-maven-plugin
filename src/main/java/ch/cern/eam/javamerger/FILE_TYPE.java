@@ -1,5 +1,5 @@
 /*
- * Copyright © 2018 CERN European Organization for Nuclear Research
+ * Copyright © 2018-2019 CERN European Organization for Nuclear Research
  * Email: eam-service@cern.ch
  *
  * This program is free software: you can redistribute it and/or modify
