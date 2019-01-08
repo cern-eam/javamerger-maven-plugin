@@ -70,7 +70,7 @@
 
   <issueManagement>
     <system>Github</system>
-    <url>https://github.com/cern-eam/java-merger/issues</url>
+    <url>https://github.com/cern-eam/eam-wshub-proxyclient/issues</url>
   </issueManagement>
 
   <prerequisites>
